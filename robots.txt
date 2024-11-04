@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://aciteuso.github.io/ScC/sitemap_index.txt
+Sitemap: https://aciteuso.github.io/mSy/sitemap_index.txt
+Sitemap: https://aciteuso.github.io/pLI/sitemap_index.txt
+Sitemap: https://aciteuso.github.io/yoe/sitemap_index.txt
